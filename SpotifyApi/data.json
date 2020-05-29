@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "titre": "Stuck With U",
+    "duree": 3.55,
+    "artistes": ["Ariana Grande", "Justin Bieber"]
+  },
+  {
+    "id": 2,
+    "titre": "Say so",
+    "duree": 4.22,
+    "artistes": ["Dojo Cat", "Nicki Minaj"]
+  },
+  {
+    "id": 3,
+    "titre": "Gooba",
+    "duree": 2.4,
+    "artistes": ["6ix9ine"]
+  },
+  {
+    "id": 4,
+    "titre": "Blinding Lights",
+    "duree": 3.55,
+    "artistes": ["The Weeknd"]
+  },
+  {
+    "id": 5,
+    "titre": "Savage",
+    "duree": 4.14,
+    "artistes": ["Megan Thee Stallion", "Beyonce"]
+  },
+  {
+    "id": 6,
+    "titre": "Toosie Slide",
+    "duree": 3.39,
+    "artistes": ["Drake"]
+  }
+]

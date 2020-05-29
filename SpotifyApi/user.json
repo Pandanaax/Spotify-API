@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "prenom": "Rachid",
+      "nom": "KAJJOUA",
+      "sexe": "Homme"
+    },
+    {
+      "id": 2,
+      "prenom": "Benoit",
+      "nom": "Técher",
+      "sexe": "Homme"
+    },
+    {
+      "id": 3,
+      "prenom": "Hicham",
+      "nom": "KASSOU",
+      "sexe": "Homme"
+    },
+    {
+      "id": 4,
+      "prenom": "Randa",
+      "nom": "BALI",
+      "sexe": "Femme"
+    },
+    {
+      "id": 5,
+      "prenom": "Souleymane",
+      "nom": "Diallo",
+      "sexe": "Homme"
+    },
+    {
+      "id": 6,
+      "prenom": "Ali",
+      "nom": "Boutaleb",
+      "sexe": "Homme"
+    }
+  ]

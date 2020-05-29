@@ -1,0 +1,36 @@
+[{
+    "id":"1",
+    "nom": "Top of the Rock",
+    "style": "Rock",
+    "créateur":"Spotify",
+    "chanson":["Stand","Brand New Kids","Soul on Fire", "Invincible"]
+},
+{
+    "id":"2",
+    "nom": "Fresh Finds: Latin",
+    "style": "Latino",
+    "créateur":"Spotify",
+    "chanson":["None","Ahonita","Quizas", "Para Lisa"]
+},
+{
+    "id":"3",
+    "nom":"Café/Croissant",
+    "style": "Chill",
+    "créateur":"Spotify",
+    "chanson":["This life","Lucky","Distance", "Good People"]
+},
+{
+    "id":"4",
+    "nom":"Pop Party",
+    "style": "Soirée",
+    "créateur":"Spotify",
+    "chanson":["Dance Monkey","Lost in Japan - Remix","Don't Start Now", "I don't Care"]
+},
+{
+    "id":"5",
+    "nom": "Jazz Club",
+    "style": "Jazz",
+    "créateur":"Spotify",
+    "chanson":["Phoenix","I think I love you","Silence in golden", "Kiss Me In The Morning"]
+}
+  ]

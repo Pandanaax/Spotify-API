@@ -1,0 +1,25 @@
+[{
+    "Id": 1,
+    "Artiste": "The Weeknd" ,
+    "Name": "After Hours",
+    "ImageUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/64/e5/a8/11068772/1507-1/tsp20200219113126/After-Hours.jpg"
+},
+{
+    "Id": 2,
+    "Artiste": "Antonio Vivaldi" ,
+    "Name": "Vivaldi I colori dell’ombra ",
+    "ImageUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/3d/89/b3/11766077/1540-1/tsp20200219104241/Vivaldi-I-colori-dell-ombra.jpg"
+},
+{
+    "Id": 3,
+    "Artiste": "Cali" ,
+    "Name": "Cavale ",
+    "ImageUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/db/c9/b2/11717083/1507-1/tsp20200131171116/Cavale.jpg"
+},
+{
+    "Id": 4,
+    "Artiste": "5 second of summer" ,
+    "Name": "Calm",
+    "ImageUrl": "https://static.fnac-static.com/multimedia/Images/FR/NR/11/ca/b2/11717137/1507-1/tsp20200224123214/Calm.jpg"
+}
+]
